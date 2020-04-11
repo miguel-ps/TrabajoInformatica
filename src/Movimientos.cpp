@@ -28,5 +28,6 @@ void Movimientos::PosInicial(ListaFichas &lf, Tablero &t)
 
 void Movimientos::Posibilidades(Ficha& f, ListaFichas& lf, Tablero& t)
 {
+//Prueba para atom
 
 }
