@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rauls\Documents\Visual Studio 2019\Programas\TrabajoInfor\src\</FILEPATH>
+      <FILENAME>Casilla.cpp</FILENAME>
+      <LINE>19</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Desbordamiento aritmético: el operador "+" se usa en un valor de 4 bytes y, a continuación, el resultado se convierte a un valor de 8 bytes. Convierta el valor al tipo más amplio antes de llamar al operador "+" para evitar el desbordamiento (io.2).</DESCRIPTION>
+    <FUNCTION>Casilla::dibuja</FUNCTION>
+    <DECORATED>?dibuja@Casilla@@QAEXXZ</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rauls\Documents\Visual Studio 2019\Programas\TrabajoInfor\src\</FILEPATH>
+      <FILENAME>Casilla.cpp</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Desbordamiento aritmético: el operador "+" se usa en un valor de 4 bytes y, a continuación, el resultado se convierte a un valor de 8 bytes. Convierta el valor al tipo más amplio antes de llamar al operador "+" para evitar el desbordamiento (io.2).</DESCRIPTION>
+    <FUNCTION>Casilla::dibuja</FUNCTION>
+    <DECORATED>?dibuja@Casilla@@QAEXXZ</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rauls\Documents\Visual Studio 2019\Programas\TrabajoInfor\src\</FILEPATH>
+      <FILENAME>Casilla.cpp</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>29</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Desbordamiento aritmético: el operador "+" se usa en un valor de 4 bytes y, a continuación, el resultado se convierte a un valor de 8 bytes. Convierta el valor al tipo más amplio antes de llamar al operador "+" para evitar el desbordamiento (io.2).</DESCRIPTION>
+    <FUNCTION>Casilla::dibuja</FUNCTION>
+    <DECORATED>?dibuja@Casilla@@QAEXXZ</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rauls\Documents\Visual Studio 2019\Programas\TrabajoInfor\src\</FILEPATH>
+      <FILENAME>Casilla.cpp</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Desbordamiento aritmético: el operador "+" se usa en un valor de 4 bytes y, a continuación, el resultado se convierte a un valor de 8 bytes. Convierta el valor al tipo más amplio antes de llamar al operador "+" para evitar el desbordamiento (io.2).</DESCRIPTION>
+    <FUNCTION>Casilla::dibuja</FUNCTION>
+    <DECORATED>?dibuja@Casilla@@QAEXXZ</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
